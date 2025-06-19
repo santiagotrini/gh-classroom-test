@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
-   printf("Hello!\n");
-   return 0;
+int main(void) {
+  // tu solucion
+  return 0;
 }
